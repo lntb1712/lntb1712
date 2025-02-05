@@ -4,6 +4,17 @@
 </div>
 
 ---
+## 📬 Contact 
+<p align="center">
+  <p align="center">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/lntb1712?color=c79600&style=for-the-badge&labelColor=e1ad0e&logo=star"/>
+    <img src="https://custom-icon-badges.demolab.com/github/followers/lntb1712?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </p>
+  <p align="center">
+    <img src="https://custom-icon-badges.demolab.com/badge/-nhocbinh7a8@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Email"/>
+  </p>
+</p>
 
 ## 💻 Tech Stack
 <p dir="auto">

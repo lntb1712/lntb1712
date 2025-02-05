@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lntb1712
+## 👋 Hi, I’m @lntb1712
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>

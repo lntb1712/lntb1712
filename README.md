@@ -48,6 +48,12 @@
   </a>
 </p>
 
+---
+
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=lntb1712&theme=blue-green&hide_border=true&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lntb1712&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lntb1712&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!---
 lntb1712/lntb1712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

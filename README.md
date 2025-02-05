@@ -4,15 +4,6 @@
 </div>
 
 ---
-🌐 Socials
-<p dir="auto">
-  <a href="https://www.facebook.com/thanhbinhle1712/">
-  <img src="https://camo.githubusercontent.com/5534f7b32c55c00965b67f347e15bda0416fece606df5265b87bfaa3509fe31c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f6c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" style="max-width: 100%;">
-</a>
-
-</p>
-
----
 
 💻 Tech Stack
 <p dir="auto">
@@ -51,6 +42,9 @@
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/react-native-%2300C4CC.svg?style=for-the-badge&logo=react-native&logoColor=white">
+    <img src="https://img.shields.io/badge/react-native%2300C4CC.svg?style=for-the-badge&logo=react-native&logoColor=white" alt="react-native" style="max-width: 100%;">
   </a>
 </p>
 

@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-  <h3>Software Developer | C / C++ / C# / Java / .NET Enthusiast</h3>
+  <h3>Software Engineer | C# / React native/ Flutter / Vue.js </h3>
 </div>
 
 ---

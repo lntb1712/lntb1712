@@ -3,13 +3,6 @@
 <!-- Animated Banner - Vividly colored gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Thanh%20B%C3%ACnh&fontSize=70&fontColor=fff&fontAlignY=38&fontAlign=50&desc=%F0%9F%9A%80%20Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50&descSize=18&descColor=a5d8ff&animation=fadeIn"/>
 
-<br/>
-
-<!-- Avatar -->
-<img src="https://github.com/lntb1712.png" width="120" alt="avatar"/>
-
-<br/><br/>
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Hi+there%2C+I'm+Thanh+Binh!+%F0%9F%91%8B;C%23+%2F+.NET+Developer+%E2%9A%A1;React+Native+%26+Flutter+Builder+%F0%9F%93%B1;Vue.js+%26+TypeScript+Craftsman+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/>
 
